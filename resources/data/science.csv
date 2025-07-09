@@ -1,0 +1,151 @@
+category,subcategory,question,option1,option2,option3,option4,answer
+SCIENCE,Chemistry,Which state of matter has definite volume but no definite shape?,Solid,Liquid,Gas,Plasma,b
+SCIENCE,Biology,What is the shape of DNA?,Single helix,Double helix,Triple helix,Straight chain,b
+SCIENCE,Physics,What is the speed of light in a vacuum?,"300,000 km/s","150,000 km/s","450,000 km/s","600,000 km/s",a
+SCIENCE,Chemistry,What is the product when an acid reacts with a base?,Salt and water,Hydrogen gas,Carbon dioxide,Alcohol,a
+SCIENCE,Physics,The first law of thermodynamics is essentially a statement of:,Conservation of energy,Entropy,Heat engines,Temperature scales,a
+SCIENCE,Chemistry,Which molecule has a double covalent bond?,H2,O2,N2,CH4,b
+SCIENCE,Chemistry,What is the standard temperature in Kelvin?,0,100,273,373,c
+SCIENCE,Biology,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,b
+SCIENCE,Biology,Which plant hormone promotes growth?,Abscisic acid,Ethylene,Auxin,Cytokinin,c
+SCIENCE,Biology,Which animal has the largest brain relative to body size?,Elephant,Dolphin,Human,Blue whale,c
+SCIENCE,Biology,What is the term for an organism's role in its ecosystem?,Habitat,Niche,Biome,Community,b
+SCIENCE,Physics,The photoelectric effect demonstrates that light has:,Wave properties,Particle properties,Both wave and particle properties,Neither,b
+SCIENCE,Physics,What causes a supernova?,Star collapse,Black hole formation,Galaxy collision,Dark matter,a
+SCIENCE,Physics,What causes a supernova?,Star collapse,Black hole formation,Galaxy collision,Dark matter,a
+SCIENCE,Chemistry,What is the standard temperature in Kelvin?,0,100,273,373,c
+SCIENCE,Physics,Who proposed the theory of relativity?,Newton,Einstein,Galileo,Bohr,b
+SCIENCE,Chemistry,Which state of matter has definite volume but no definite shape?,Solid,Liquid,Gas,Plasma,b
+SCIENCE,Chemistry,What color does litmus paper turn in acid?,Red,Blue,Green,Yellow,a
+SCIENCE,Physics,"Which of Newton's Laws states 'for every action, there's an equal and opposite reaction'?",First,Second,Third,Law of Gravitation,c
+SCIENCE,Chemistry,Which molecule has a double covalent bond?,H2,O2,N2,CH4,b
+SCIENCE,Chemistry,What is the general formula for alkanes?,CₙH₂ₙ,CₙH₂ₙ₊₂,CₙH₂ₙ₋₂,CₙHₙ,b
+SCIENCE,Chemistry,What is the standard temperature in Kelvin?,0,100,273,373,c
+SCIENCE,Biology,How many chromosomes do humans normally have?,23,46,64,92,b
+SCIENCE,Biology,What is the shape of DNA?,Single helix,Double helix,Triple helix,Straight chain,b
+SCIENCE,Biology,What is the male reproductive part of a flower called?,Pistil,Stamen,Sepal,Petal,b
+SCIENCE,Physics,Which electromagnetic wave has the longest wavelength?,Radio waves,Microwaves,X-rays,Gamma rays,a
+SCIENCE,Chemistry,What is the standard temperature in Kelvin?,0,100,273,373,c
+SCIENCE,Biology,Which animal has the largest brain relative to body size?,Elephant,Dolphin,Human,Blue whale,c
+SCIENCE,Physics,Which particle is not part of an atom's nucleus?,Proton,Neutron,Electron,All are in nucleus,c
+SCIENCE,Biology,How many chromosomes do humans normally have?,23,46,64,92,b
+SCIENCE,Chemistry,"According to Boyle's law, at constant temperature:",Pressure ∝ Volume,Pressure ∝ 1/Volume,Volume ∝ Temperature,Pressure ∝ Temperature,b
+SCIENCE,Chemistry,What type of bond forms between sodium and chlorine in NaCl?,Covalent,Ionic,Metallic,Hydrogen,b
+SCIENCE,Physics,The first law of thermodynamics is essentially a statement of:,Conservation of energy,Entropy,Heat engines,Temperature scales,a
+SCIENCE,Chemistry,What is the product when an acid reacts with a base?,Salt and water,Hydrogen gas,Carbon dioxide,Alcohol,a
+SCIENCE,Biology,What is the largest organ in the human body?,Liver,Brain,Skin,Lung,c
+SCIENCE,Chemistry,Which metal is commonly used as the anode in dry cells?,Copper,Silver,Zinc,Gold,c
+SCIENCE,Physics,Which electromagnetic wave has the longest wavelength?,Radio waves,Microwaves,X-rays,Gamma rays,a
+SCIENCE,Chemistry,What is the general formula for alkanes?,CₙH₂ₙ,CₙH₂ₙ₊₂,CₙH₂ₙ₋₂,CₙHₙ,b
+SCIENCE,Biology,Which scientist proposed the theory of natural selection?,Gregor Mendel,Charles Darwin,Louis Pasteur,Carl Linnaeus,b
+SCIENCE,Biology,What is the main energy currency of cells?,DNA,RNA,ATP,ADP,c
+SCIENCE,Physics,The photoelectric effect demonstrates that light has:,Wave properties,Particle properties,Both wave and particle properties,Neither,b
+SCIENCE,Biology,What is the largest organ in the human body?,Liver,Brain,Skin,Lung,c
+SCIENCE,Physics,What is the SI unit of pressure?,Newton,Pascal,Joule,Watt,b
+SCIENCE,Physics,Who proposed the theory of relativity?,Newton,Einstein,Galileo,Bohr,b
+SCIENCE,Biology,What is used to kill bacteria?,Antibiotic,Antiviral,Antifungal,Antiparasitic,a
+SCIENCE,Physics,What is the quantum of light called?,Proton,Neutron,Photon,Electron,c
+SCIENCE,Biology,Which animal has the largest brain relative to body size?,Elephant,Dolphin,Human,Blue whale,c
+SCIENCE,Physics,Which electromagnetic wave has the longest wavelength?,Radio waves,Microwaves,X-rays,Gamma rays,a
+SCIENCE,Physics,"Which of Newton's Laws states 'for every action, there's an equal and opposite reaction'?",First,Second,Third,Law of Gravitation,c
+SCIENCE,Biology,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,b
+SCIENCE,Chemistry,Which type of bond involves the sharing of electron pairs between atoms?,Ionic bond,Covalent bond,Metallic bond,Hydrogen bond,b
+SCIENCE,Biology,What is the main energy currency of cells?,DNA,RNA,ATP,ADP,c
+SCIENCE,Chemistry,What is the pH of a neutral solution?,0,7,14,10,b
+SCIENCE,Chemistry,Which subatomic particle has a negative charge?,Proton,Neutron,Electron,Positron,c
+SCIENCE,Physics,Heat transfer through electromagnetic waves is called:,Conduction,Convection,Radiation,Diffusion,c
+SCIENCE,Physics,What causes a supernova?,Star collapse,Black hole formation,Galaxy collision,Dark matter,a
+SCIENCE,Physics,What is the unit of electrical resistance?,Volt,Ampere,Ohm,Watt,c
+SCIENCE,Chemistry,Which of these is a strong acid?,Acetic acid,Citric acid,Hydrochloric acid,Carbonic acid,c
+SCIENCE,Physics,What phenomenon causes a rainbow?,Reflection,Refraction,Dispersion,All of the above,d
+SCIENCE,Biology,Which plant is known as the 'king of vegetables'?,Potato,Tomato,Brinjal,Onion,c
+SCIENCE,Chemistry,Which group in the periodic table contains the noble gases?,Group 1,Group 2,Group 17,Group 18,d
+SCIENCE,Biology,What is the outermost layer of a tree trunk called?,Xylem,Phloem,Cambium,Bark,d
+SCIENCE,Physics,The first law of thermodynamics is essentially a statement of:,Conservation of energy,Entropy,Heat engines,Temperature scales,a
+SCIENCE,Chemistry,Which subatomic particle has a negative charge?,Proton,Neutron,Electron,Positron,c
+SCIENCE,Biology,Which gas do plants absorb during photosynthesis?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,c
+SCIENCE,Physics,Which lens causes light rays to converge?,Concave,Convex,Plano-concave,Biconcave,b
+SCIENCE,Chemistry,Which group in the periodic table contains the noble gases?,Group 1,Group 2,Group 17,Group 18,d
+SCIENCE,Physics,What is the process of splitting heavy nuclei called?,Fusion,Fission,Decay,Transmutation,b
+SCIENCE,Physics,What is the unit of electrical resistance?,Volt,Ampere,Ohm,Watt,c
+SCIENCE,Biology,What is the study of fossils called?,Geology,Paleontology,Archaeology,Anthropology,b
+SCIENCE,Physics,An object submerged in fluid experiences an upward force called:,Gravity,Buoyancy,Friction,Tension,b
+SCIENCE,Chemistry,Which molecule has a double covalent bond?,H2,O2,N2,CH4,b
+SCIENCE,Biology,What is the outermost layer of a tree trunk called?,Xylem,Phloem,Cambium,Bark,d
+SCIENCE,Chemistry,What is the process called when a solid turns directly into a gas?,Melting,Freezing,Sublimation,Deposition,c
+SCIENCE,Physics,The photoelectric effect demonstrates that light has:,Wave properties,Particle properties,Both wave and particle properties,Neither,b
+SCIENCE,Biology,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,b
+SCIENCE,Chemistry,"In an exothermic reaction, heat is:",Absorbed,Released,Destroyed,Created,b
+SCIENCE,Chemistry,Which functional group defines an alcohol?,#NAME?,#NAME?,#NAME?,0,b
+SCIENCE,Biology,How many chromosomes do humans normally have?,23,46,64,92,b
+SCIENCE,Chemistry,What is the maximum number of electrons that can occupy the third energy level?,2,8,18,32,c
+SCIENCE,Physics,The half-life of a radioactive element is the time for:,Half the atoms to decay,All atoms to decay,Double the atoms to form,Radiation to halve,a
+SCIENCE,Chemistry,What is the pH of a neutral solution?,0,7,14,10,b
+SCIENCE,Biology,What gas do plants release during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen,a
+SCIENCE,Physics,The first law of thermodynamics is essentially a statement of:,Conservation of energy,Entropy,Heat engines,Temperature scales,a
+SCIENCE,Physics,What particle is emitted in beta decay?,Proton,Neutron,Electron,Photon,c
+SCIENCE,Physics,What principle explains why airplanes fly?,Pascal's,Archimedes',Bernoulli's,Newton's,c
+SCIENCE,Chemistry,Which molecule has a double covalent bond?,H2,O2,N2,CH4,b
+SCIENCE,Chemistry,Which metal is commonly used as the anode in dry cells?,Copper,Silver,Zinc,Gold,c
+SCIENCE,Chemistry,What is the product when an acid reacts with a base?,Salt and water,Hydrogen gas,Carbon dioxide,Alcohol,a
+SCIENCE,Physics,What is the closest star to Earth?,Alpha Centauri,Betelgeuse,Sirius,The Sun,d
+SCIENCE,Physics,Which particle is not part of an atom's nucleus?,Proton,Neutron,Electron,All are in nucleus,c
+SCIENCE,Chemistry,What color does litmus paper turn in acid?,Red,Blue,Green,Yellow,a
+SCIENCE,Biology,What is the outermost layer of a tree trunk called?,Xylem,Phloem,Cambium,Bark,d
+SCIENCE,Biology,What process do plants use to make their own food?,Respiration,Photosynthesis,Transpiration,Germination,b
+SCIENCE,Chemistry,Which of these is a strong acid?,Acetic acid,Citric acid,Hydrochloric acid,Carbonic acid,c
+SCIENCE,Physics,Who proposed the theory of relativity?,Newton,Einstein,Galileo,Bohr,b
+SCIENCE,Biology,Which microorganism causes COVID-19?,Bacteria,Virus,Fungus,Protozoa,b
+SCIENCE,Physics,What is the acceleration due to gravity on Earth's surface (approx)?,6.67 m/s²,9.81 m/s²,10.2 m/s²,11.5 m/s²,b
+SCIENCE,Chemistry,Which group in the periodic table contains the noble gases?,Group 1,Group 2,Group 17,Group 18,d
+SCIENCE,Chemistry,Which subatomic particle has a negative charge?,Proton,Neutron,Electron,Positron,c
+SCIENCE,Biology,What gas do plants release during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen,a
+SCIENCE,Physics,The photoelectric effect demonstrates that light has:,Wave properties,Particle properties,Both wave and particle properties,Neither,b
+SCIENCE,Physics,What is the closest star to Earth?,Alpha Centauri,Betelgeuse,Sirius,The Sun,d
+SCIENCE,Physics,Sound waves are:,Longitudinal,Transverse,Electromagnetic,Circular,a
+SCIENCE,Chemistry,What type of reaction is represented by: AB → A + B?,Synthesis,Decomposition,Single replacement,Double replacement,b
+SCIENCE,Biology,Which organ pumps blood throughout the body?,Liver,Heart,Lung,Kidney,b
+SCIENCE,Physics,What is the unit of electrical resistance?,Volt,Ampere,Ohm,Watt,c
+SCIENCE,Chemistry,Which type of bond involves the sharing of electron pairs between atoms?,Ionic bond,Covalent bond,Metallic bond,Hydrogen bond,b
+SCIENCE,Biology,Which organ pumps blood throughout the body?,Liver,Heart,Lung,Kidney,b
+SCIENCE,Physics,Which material is a good conductor of electricity?,Rubber,Glass,Copper,Plastic,c
+SCIENCE,Biology,What is the main energy currency of cells?,DNA,RNA,ATP,ADP,c
+SCIENCE,Chemistry,"According to Boyle's law, at constant temperature:",Pressure ∝ Volume,Pressure ∝ 1/Volume,Volume ∝ Temperature,Pressure ∝ Temperature,b
+SCIENCE,Physics,The first law of thermodynamics is essentially a statement of:,Conservation of energy,Entropy,Heat engines,Temperature scales,a
+SCIENCE,Chemistry,What is the pH of a neutral solution?,0,7,14,10,b
+SCIENCE,Biology,What process do plants use to make their own food?,Respiration,Photosynthesis,Transpiration,Germination,b
+SCIENCE,Biology,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,b
+SCIENCE,Chemistry,"In an exothermic reaction, heat is:",Absorbed,Released,Destroyed,Created,b
+SCIENCE,Biology,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,b
+SCIENCE,Biology,Which scientist proposed the theory of natural selection?,Gregor Mendel,Charles Darwin,Louis Pasteur,Carl Linnaeus,b
+SCIENCE,Physics,What is the SI unit of pressure?,Newton,Pascal,Joule,Watt,b
+SCIENCE,Physics,What is the SI unit of force?,Joule,Watt,Newton,Pascal,c
+SCIENCE,Chemistry,Which of these is a strong acid?,Acetic acid,Citric acid,Hydrochloric acid,Carbonic acid,c
+SCIENCE,Chemistry,Which of these is a halogen?,Neon,Iron,Chlorine,Calcium,c
+SCIENCE,Biology,What is the study of fossils called?,Geology,Paleontology,Archaeology,Anthropology,b
+SCIENCE,Physics,Which temperature scale has its zero point at absolute zero?,Fahrenheit,Celsius,Kelvin,Rankine,c
+SCIENCE,Physics,Which particle is not part of an atom's nucleus?,Proton,Neutron,Electron,All are in nucleus,c
+SCIENCE,Biology,Which organelle contains digestive enzymes?,Golgi apparatus,Lysosome,Vacuole,Chloroplast,b
+SCIENCE,Chemistry,What is the oxidation state of oxygen in most compounds?,-2,-1,1,2,a
+SCIENCE,Biology,Enzymes are primarily made of:,Carbohydrates,Lipids,Proteins,Nucleic acids,c
+SCIENCE,Physics,What phenomenon causes a rainbow?,Reflection,Refraction,Dispersion,All of the above,d
+SCIENCE,Physics,Which electromagnetic wave has the longest wavelength?,Radio waves,Microwaves,X-rays,Gamma rays,a
+SCIENCE,Chemistry,What type of bond forms between sodium and chlorine in NaCl?,Covalent,Ionic,Metallic,Hydrogen,b
+SCIENCE,Biology,Which plant hormone promotes growth?,Abscisic acid,Ethylene,Auxin,Cytokinin,c
+SCIENCE,Physics,What principle explains why airplanes fly?,Pascal's,Archimedes',Bernoulli's,Newton's,c
+SCIENCE,Chemistry,Which of these is a strong acid?,Acetic acid,Citric acid,Hydrochloric acid,Carbonic acid,c
+SCIENCE,Biology,What is the largest organ in the human body?,Liver,Brain,Skin,Lung,c
+SCIENCE,Chemistry,"According to Boyle's law, at constant temperature:",Pressure ∝ Volume,Pressure ∝ 1/Volume,Volume ∝ Temperature,Pressure ∝ Temperature,b
+SCIENCE,Chemistry,Which group in the periodic table contains the noble gases?,Group 1,Group 2,Group 17,Group 18,d
+SCIENCE,Biology,What is the pH of human blood (approx)?,4.5,6.2,7.4,8,c
+SCIENCE,Physics,Heat transfer through electromagnetic waves is called:,Conduction,Convection,Radiation,Diffusion,c
+SCIENCE,Biology,Which animal has the largest brain relative to body size?,Elephant,Dolphin,Human,Blue whale,c
+SCIENCE,Physics,Which temperature scale has its zero point at absolute zero?,Fahrenheit,Celsius,Kelvin,Rankine,c
+SCIENCE,Biology,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,b
+SCIENCE,Biology,Who is considered the father of genetics?,Charles Darwin,Gregor Mendel,James Watson,Francis Crick,b
+SCIENCE,Chemistry,Which of these is a halogen?,Neon,Iron,Chlorine,Calcium,c
+SCIENCE,Biology,Which plant is known as the 'king of vegetables'?,Potato,Tomato,Brinjal,Onion,c
+SCIENCE,Biology,Which animal has the largest brain relative to body size?,Elephant,Dolphin,Human,Blue whale,c
+SCIENCE,Biology,Which blood type is the universal donor?,A,B,AB,O,d
+SCIENCE,Biology,Which plant is known as the 'king of vegetables'?,Potato,Tomato,Brinjal,Onion,c
+SCIENCE,Chemistry,Which subatomic particle has a negative charge?,Proton,Neutron,Electron,Positron,c
