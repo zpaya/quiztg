@@ -1,501 +1,501 @@
-category,subcategory,question,option1,option2,option3,option4,answer
-Software,Average,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,b
-Software,Basic,"In Python, what does the following code output: print(1 + 9)?",15,1,18,Error,a
-Software,Basic,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,b
-Software,Average,Which of the following is a mutable data type in Python?,tuple,string,list,integer,c
-Software,Basic,"In Python, what does the following code output: print(3 + 10)?",2,5,4,Error,a
-Software,Average,What is the output of print(bool([]))?,True,False,[],Error,b
-Software,Basic,Which of the following is NOT a Python data type?,int,float,char,str,c
-Software,Average,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),a
-Software,Average,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the output of print(3 == 3)?,True,False,3,Error,a
-Software,Average,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,b
-Software,Advance,What is the output of print([] or 'default')?,[],'default',True,False,b
-Software,Average,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),a
-Software,Basic,What is the output of print(2 + 3)?,5,23,2+3,Error,a
-Software,Basic,Which of the following is used to define a function in Python?,def,function,define,func,a
-Software,Advance,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,b
-Software,Basic,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),b
-Software,Average,What is the output of print(bool([]))?,True,False,[],Error,b
-Software,Basic,Which keyword is used to create a class in Python?,class,Class,define,def,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,a
-Software,Average,"What is the output of print(list(range(4, 6)))?",List of numbers,Range object,Error,None,a
-Software,Average,"What is the output of print(list(range(3, 10)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the output of print(2 + 3)?,5,23,2+3,Error,a
-Software,Average,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,b
-Software,Average,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,a
-Software,Average,Which of the following is used for list comprehension?,[],{},(),||,a
-Software,Basic,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,a
-Software,Basic,What is the output of print(3 == 3)?,True,False,3,Error,a
-Software,Basic,"In Python, what does the following code output: print(4 + 10)?",13,8,9,Error,a
-Software,Average,Which of the following is a mutable data type in Python?,tuple,string,list,integer,c
-Software,Basic,"In Python, what does the following code output: print(2 + 4)?",16,9,1,Error,a
-Software,Average,"What is the output of print(list(range(4, 8)))?",List of numbers,Range object,Error,None,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),a
-Software,Basic,Which symbol is used for comments in Python?,//,#,/*,<!--,b
-Software,Basic,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,b
-Software,Basic,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),a
-Software,Average,Which of the following is a mutable data type in Python?,tuple,string,list,integer,c
-Software,Advance,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,b
-Software,Basic,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),a
-Software,Average,"What is the output of print(list(range(4, 10)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,d
-Software,Average,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",a
-Software,Basic,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),a
-Software,Basic,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,d
-Software,Average,What is the output of print(not True)?,True,False,not True,Error,b
-Software,Basic,"In Python, what does the following code output: print(1 + 10)?",13,12,1,Error,a
-Software,Average,"What is the output of print(list(range(4, 8)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the output of print(not True)?,True,False,not True,Error,b
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,Which operator is used for exponentiation in Python?,^,**,exp,pow,b
-Software,Basic,"In Python, what does the following code output: print(1 + 2)?",14,7,2,Error,a
-Software,Advance,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,b
-Software,Advance,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,b
-Software,Advance,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,d
-Software,Average,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),a
-Software,Average,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),b
-Software,Basic,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),a
-Software,Advance,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,a
-Software,Basic,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,b
-Software,Basic,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,b
-Software,Advance,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,d
-Software,Basic,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,a
-Software,Average,Which of the following is a mutable data type in Python?,tuple,string,list,integer,c
-Software,Basic,"In Python, what does the following code output: print(8 + 7)?",4,17,16,Error,a
-Software,Average,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,b
-Software,Basic,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,b
-Software,Advance,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,c
-Software,Basic,"In Python, what does the following code output: print(8 + 7)?",18,6,9,Error,a
-Software,Basic,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,a
-Software,Basic,"In Python, what does the following code output: print(1 + 6)?",6,1,13,Error,a
-Software,Average,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,None,a
-Software,Advance,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,a
-Software,Average,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,b
-Software,Average,"What is the output of print(list(range(1, 7)))?",List of numbers,Range object,Error,None,a
-Software,Average,"What is the output of print(list(range(3, 8)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,c
-Software,Basic,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,a
-Software,Basic,"In Python, what does the following code output: print(5 + 3)?",20,1,8,Error,a
-Software,Average,Which of the following is a mutable data type in Python?,tuple,string,list,integer,c
-Software,Average,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),b
-Software,Basic,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,a
-Software,Average,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,b
-Software,Advance,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,a
-Software,Average,Which of the following is a mutable data type in Python?,tuple,string,list,integer,c
-Software,Average,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,b
-Software,Basic,"In Python, what does the following code output: print(5 + 6)?",10,6,5,Error,a
-Software,Basic,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,a
-Software,Average,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,b
-Software,Advance,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,b
-Software,Basic,"In Python, what does the following code output: print(1 + 1)?",5,4,18,Error,a
-Software,Basic,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,a
-Software,Basic,Which symbol is used for comments in Python?,//,#,/*,<!--,b
-Software,Average,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,b
-Software,Average,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,b
-Software,Average,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(8 + 8)?",7,2,19,Error,a
-Software,Average,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,c
-Software,Average,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,None,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),a
-Software,Average,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,a
-Software,Basic,"In Python, what does the following code output: print(8 + 3)?",16,18,17,Error,a
-Software,Basic,"In Python, what does the following code output: print(4 + 1)?",12,13,11,Error,a
-Software,Basic,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),a
-Software,Basic,"In Python, what does the following code output: print(5 + 4)?",9,13,13,Error,a
-Software,Basic,Which operator is used for exponentiation in Python?,^,**,exp,pow,b
-Software,Average,What is the output of print(10 // 3)?,3.33,3,4,Error,b
-Software,Basic,What is the output of len('Hello')?,4,5,6,Error,b
-Software,Advance,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,a
-Software,Advance,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,d
-Software,Basic,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,b
-Software,Average,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,b
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,b
-Software,Average,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,d
-Software,Basic,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),b
-Software,Average,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(6 + 8)?",9,13,8,Error,a
-Software,Average,What is the output of print('Hello'[1:3])?,el,ell,He,llo,a
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),a
-Software,Basic,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),a
-Software,Advance,What is the output of print([] or 'default')?,[],'default',True,False,b
-Software,Basic,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,a
-Software,Advance,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,a
-Software,Average,Which of the following creates a dictionary?,{},[],(),set(),a
-Software,Advance,"What is the output of print(id([1, 2]) == id([1, 2]))?",True,False,Depends on implementation,Error,b
-Software,Basic,"In Python, what does the following code output: print(4 + 7)?",6,4,14,Error,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,"In Python, what does the following code output: print(9 + 5)?",3,6,14,Error,a
-Software,Basic,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,a
-Software,Average,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",a
-Software,Basic,Which keyword is used to create a class in Python?,class,Class,define,def,a
-Software,Basic,"In Python, what does the following code output: print(9 + 4)?",17,15,5,Error,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),a
-Software,Basic,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),a
-Software,Average,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Advance,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,a
-Software,Basic,"In Python, what does the following code output: print(4 + 9)?",10,1,10,Error,a
-Software,Basic,Which operator is used for exponentiation in Python?,^,**,exp,pow,b
-Software,Advance,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,a
-Software,Advance,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,a
-Software,Average,What is the output of print('Hello'[1:3])?,el,ell,He,llo,a
-Software,Basic,"In Python, what does the following code output: print(1 + 3)?",8,1,17,Error,a
-Software,Basic,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,a
-Software,Basic,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,a
-Software,Basic,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,a
-Software,Advance,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,b
-Software,Average,Which of the following is used for list comprehension?,[],{},(),||,a
-Software,Basic,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,a
-Software,Average,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,a
-Software,Advance,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,c
-Software,Average,What is the output of print('Hello'[1:3])?,el,ell,He,llo,a
-Software,Advance,What is the output of print([] or 'default')?,[],'default',True,False,b
-Software,Basic,What is the output of print(2 + 3)?,5,23,2+3,Error,a
-Software,Average,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,d
-Software,Average,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which of the following is used to define a function in Python?,def,function,define,func,a
-Software,Average,Which of the following is used for list comprehension?,[],{},(),||,a
-Software,Basic,"In Python, what does the following code output: print(7 + 9)?",8,5,8,Error,a
-Software,Average,What is the output of print('Hello'[1:3])?,el,ell,He,llo,a
-Software,Average,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),b
-Software,Basic,"In Python, what does the following code output: print(1 + 1)?",18,5,5,Error,a
-Software,Average,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,None,a
-Software,Average,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),a
-Software,Average,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,b
-Software,Average,What is the output of print(10 // 3)?,3.33,3,4,Error,b
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,b
-Software,Basic,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,a
-Software,Average,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",a
-Software,Average,Which of the following creates a dictionary?,{},[],(),set(),a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Advance,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,b
-Software,Advance,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,b
-Software,Basic,What is the output of print(3 == 3)?,True,False,3,Error,a
-Software,Basic,"In Python, what does the following code output: print(8 + 8)?",5,11,6,Error,a
-Software,Basic,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,a
-Software,Advance,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,d
-Software,Basic,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,a
-Software,Average,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,c
-Software,Average,Which of the following is used for list comprehension?,[],{},(),||,a
-Software,Basic,"In Python, what does the following code output: print(8 + 7)?",2,17,9,Error,a
-Software,Advance,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,d
-Software,Basic,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,b
-Software,Basic,What is the output of len('Hello')?,4,5,6,Error,b
-Software,Advance,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,b
-Software,Advance,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,b
-Software,Basic,What is the output of print(3 == 3)?,True,False,3,Error,a
-Software,Average,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,d
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),a
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,Which of the following is a mutable data type in Python?,tuple,string,list,integer,c
-Software,Average,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,d
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the output of len('Hello')?,4,5,6,Error,b
-Software,Advance,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,a
-Software,Average,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,None,a
-Software,Average,"What is the output of print(list(range(5, 8)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,b
-Software,Average,What is the output of print(not True)?,True,False,not True,Error,b
-Software,Average,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),b
-Software,Basic,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,b
-Software,Average,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,a
-Software,Average,What is the output of print(bool([]))?,True,False,[],Error,b
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,a
-Software,Basic,"In Python, what does the following code output: print(8 + 8)?",4,12,13,Error,a
-Software,Average,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,b
-Software,Average,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(1 + 3)?",5,14,2,Error,a
-Software,Average,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,b
-Software,Basic,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),a
-Software,Average,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,b
-Software,Average,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,d
-Software,Advance,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,a
-Software,Basic,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),b
-Software,Average,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,None,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,Which keyword is used to create a class in Python?,class,Class,define,def,a
-Software,Advance,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,b
-Software,Average,What is the output of print('Hello'[1:3])?,el,ell,He,llo,a
-Software,Basic,"In Python, what does the following code output: print(9 + 3)?",1,6,14,Error,a
-Software,Basic,Which operator is used for exponentiation in Python?,^,**,exp,pow,b
-Software,Average,What is the output of print(bool([]))?,True,False,[],Error,b
-Software,Basic,"In Python, what does the following code output: print(8 + 8)?",9,4,8,Error,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,None,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,"What is the output of print(list(range(4, 7)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,b
-Software,Average,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",a
-Software,Advance,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,a
-Software,Basic,Which symbol is used for comments in Python?,//,#,/*,<!--,b
-Software,Basic,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,a
-Software,Advance,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,a
-Software,Basic,"In Python, what does the following code output: print(9 + 9)?",6,15,16,Error,a
-Software,Basic,"In Python, what does the following code output: print(10 + 5)?",1,18,6,Error,a
-Software,Average,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),b
-Software,Average,"What is the output of print(list(range(3, 7)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(2 + 2)?",5,8,6,Error,a
-Software,Advance,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,a
-Software,Average,What is the output of print(not True)?,True,False,not True,Error,b
-Software,Average,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which of the following is used to define a function in Python?,def,function,define,func,a
-Software,Advance,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,a
-Software,Basic,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,a
-Software,Average,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,d
-Software,Average,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,c
-Software,Basic,"In Python, what does the following code output: print(6 + 1)?",18,15,10,Error,a
-Software,Basic,Which of the following is NOT a Python data type?,int,float,char,str,c
-Software,Average,Which of the following is used for list comprehension?,[],{},(),||,a
-Software,Average,What is the output of print(not True)?,True,False,not True,Error,b
-Software,Average,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(8 + 10)?",3,15,2,Error,a
-Software,Average,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the output of print(bool([]))?,True,False,[],Error,b
-Software,Average,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),b
-Software,Average,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,None,a
-Software,Average,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),b
-Software,Average,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,b
-Software,Average,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",a
-Software,Average,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,b
-Software,Average,What is the output of print(10 // 3)?,3.33,3,4,Error,b
-Software,Average,"What is the output of print(list(range(3, 7)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the output of print(10 // 3)?,3.33,3,4,Error,b
-Software,Average,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),a
-Software,Basic,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),a
-Software,Basic,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,a
-Software,Advance,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,a
-Software,Basic,"In Python, what does the following code output: print(5 + 9)?",20,4,19,Error,a
-Software,Advance,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,d
-Software,Advance,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,a
-Software,Basic,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,Which of the following is NOT a Python data type?,int,float,char,str,c
-Software,Basic,"In Python, what does the following code output: print(10 + 2)?",17,1,8,Error,a
-Software,Average,What is the output of print(bool([]))?,True,False,[],Error,b
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,What is the output of print(3 == 3)?,True,False,3,Error,a
-Software,Average,What is the output of print(10 // 3)?,3.33,3,4,Error,b
-Software,Basic,"In Python, what does the following code output: print(2 + 7)?",14,18,7,Error,a
-Software,Average,What is the output of print(10 // 3)?,3.33,3,4,Error,b
-Software,Average,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,d
-Software,Basic,What is the output of len('Hello')?,4,5,6,Error,b
-Software,Advance,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,b
-Software,Average,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which keyword is used to create a class in Python?,class,Class,define,def,a
-Software,Average,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),a
-Software,Basic,"In Python, what does the following code output: print(8 + 1)?",2,18,2,Error,a
-Software,Average,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,a
-Software,Advance,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,d
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,b
-Software,Average,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,b
-Software,Average,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,b
-Software,Average,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),a
-Software,Average,Which of the following creates a dictionary?,{},[],(),set(),a
-Software,Basic,Which of the following is NOT a Python data type?,int,float,char,str,c
-Software,Basic,"In Python, what does the following code output: print(2 + 8)?",8,12,12,Error,a
-Software,Average,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,None,a
-Software,Advance,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,c
-Software,Basic,Which of the following is used to define a function in Python?,def,function,define,func,a
-Software,Advance,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,a
-Software,Basic,Which of the following is NOT a Python data type?,int,float,char,str,c
-Software,Average,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],c
-Software,Advance,"What is the output of print(id([1, 2]) == id([1, 2]))?",True,False,Depends on implementation,Error,b
-Software,Basic,"In Python, what does the following code output: print(4 + 6)?",12,17,5,Error,a
-Software,Basic,"In Python, what does the following code output: print(7 + 6)?",11,2,9,Error,a
-Software,Basic,"In Python, what does the following code output: print(10 + 5)?",18,14,7,Error,a
-Software,Basic,What is the output of print(3 == 3)?,True,False,3,Error,a
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(9 + 6)?",10,14,10,Error,a
-Software,Basic,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),a
-Software,Advance,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,b
-Software,Basic,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,b
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,b
-Software,Basic,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),a
-Software,Advance,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,a
-Software,Average,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,b
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Advance,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,a
-Software,Basic,Which of the following is NOT a Python data type?,int,float,char,str,c
-Software,Basic,"In Python, what does the following code output: print(3 + 9)?",13,11,7,Error,a
-Software,Basic,"In Python, what does the following code output: print(7 + 10)?",14,12,14,Error,a
-Software,Average,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,b
-Software,Average,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),b
-Software,Average,What is the output of print(not True)?,True,False,not True,Error,b
-Software,Advance,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,b
-Software,Basic,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,a
-Software,Basic,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,b
-Software,Basic,What is the output of len('Hello')?,4,5,6,Error,b
-Software,Average,Which of the following is used for list comprehension?,[],{},(),||,a
-Software,Basic,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,a
-Software,Basic,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,a
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(9 + 3)?",9,11,11,Error,a
-Software,Average,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,c
-Software,Basic,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,b
-Software,Basic,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,b
-Software,Basic,"In Python, what does the following code output: print(1 + 8)?",18,3,20,Error,a
-Software,Average,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,b
-Software,Average,"What is the output of print(list(range(5, 8)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,b
-Software,Average,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],c
-Software,Average,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,d
-Software,Average,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),a
-Software,Average,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,None,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,b
-Software,Basic,"In Python, what does the following code output: print(9 + 6)?",16,18,15,Error,a
-Software,Basic,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,a
-Software,Advance,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,a
-Software,Basic,Which of the following is NOT a Python data type?,int,float,char,str,c
-Software,Basic,"In Python, what does the following code output: print(4 + 4)?",17,6,10,Error,a
-Software,Basic,"In Python, what does the following code output: print(8 + 6)?",19,12,17,Error,a
-Software,Average,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],c
-Software,Basic,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,a
-Software,Basic,Which keyword is used to create a class in Python?,class,Class,define,def,a
-Software,Advance,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,c
-Software,Basic,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,a
-Software,Basic,Which keyword is used to create a class in Python?,class,Class,define,def,a
-Software,Basic,"In Python, what does the following code output: print(9 + 2)?",9,17,12,Error,a
-Software,Average,Which of the following is used for list comprehension?,[],{},(),||,a
-Software,Basic,What is the output of print(2 + 3)?,5,23,2+3,Error,a
-Software,Basic,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,a
-Software,Basic,Which of the following is used to define a function in Python?,def,function,define,func,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Advance,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,b
-Software,Average,What is the output of print(bool([]))?,True,False,[],Error,b
-Software,Basic,Which keyword is used to create a class in Python?,class,Class,define,def,a
-Software,Advance,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,b
-Software,Average,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,None,a
-Software,Advance,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,a
-Software,Basic,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,d
-Software,Advance,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,d
-Software,Advance,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,a
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),a
-Software,Average,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,None,a
-Software,Basic,"In Python, what does the following code output: print(6 + 7)?",2,12,1,Error,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Average,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,c
-Software,Basic,Which operator is used for exponentiation in Python?,^,**,exp,pow,b
-Software,Average,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,Which of the following creates a dictionary?,{},[],(),set(),a
-Software,Advance,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,a
-Software,Advance,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,b
-Software,Average,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,d
-Software,Average,"What is the output of print(list(range(2, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),a
-Software,Basic,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,a
-Software,Average,What is the output of print(not True)?,True,False,not True,Error,b
-Software,Basic,What is the output of print(2 + 3)?,5,23,2+3,Error,a
-Software,Average,What is the output of print('Hello'[1:3])?,el,ell,He,llo,a
-Software,Advance,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,b
-Software,Average,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,b
-Software,Basic,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),a
-Software,Average,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,a
-Software,Average,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,b
-Software,Advance,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,d
-Software,Average,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,None,a
-Software,Advance,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,d
-Software,Basic,Which symbol is used for comments in Python?,//,#,/*,<!--,b
-Software,Average,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,b
-Software,Advance,What is the output of print([] or 'default')?,[],'default',True,False,b
-Software,Basic,"In Python, what does the following code output: print(2 + 5)?",17,6,16,Error,a
-Software,Average,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],c
-Software,Basic,Which of the following is used to define a function in Python?,def,function,define,func,a
-Software,Advance,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,b
-Software,Basic,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,a
-Software,Advance,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,a
-Software,Advance,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,b
-Software,Advance,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,b
-Software,Basic,Which operator is used for exponentiation in Python?,^,**,exp,pow,b
-Software,Basic,"In Python, what does the following code output: print(1 + 2)?",4,11,11,Error,a
-Software,Basic,"In Python, what does the following code output: print(5 + 7)?",4,16,10,Error,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),a
-Software,Average,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),a
-Software,Basic,What is the output of print(2 + 3)?,5,23,2+3,Error,a
-Software,Average,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,b
-Software,Basic,Which symbol is used for comments in Python?,//,#,/*,<!--,b
-Software,Average,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),b
-Software,Average,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,b
-Software,Basic,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,a
-Software,Basic,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),b
-Software,Basic,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),a
-Software,Average,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],c
-Software,Average,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],c
-Software,Average,"What is the output of print(list(range(2, 6)))?",List of numbers,Range object,Error,None,a
-Software,Basic,Which symbol is used for comments in Python?,//,#,/*,<!--,b
-Software,Basic,Which symbol is used for comments in Python?,//,#,/*,<!--,b
-Software,Basic,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,b
-Software,Basic,Which of the following is used to define a function in Python?,def,function,define,func,a
-Software,Average,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),a
-Software,Basic,"In Python, what does the following code output: print(8 + 9)?",11,5,1,Error,a
-Software,Average,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,c
-Software,Advance,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,d
-Software,Basic,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),b
-Software,Advance,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,b
-Software,Average,What is the output of print(10 // 3)?,3.33,3,4,Error,b
-Software,Average,"What is the output of print(list(range(3, 10)))?",List of numbers,Range object,Error,None,a
-Software,Advance,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,d
-Software,Basic,Which operator is used for exponentiation in Python?,^,**,exp,pow,b
-Software,Basic,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,d
-Software,Basic,"In Python, what does the following code output: print(10 + 6)?",2,9,5,Error,a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Basic,What is the output of print(2 + 3)?,5,23,2+3,Error,a
-Software,Advance,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,b
-Software,Basic,What is the output of len('Hello')?,4,5,6,Error,b
-Software,Average,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,b
-Software,Average,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,None,a
-Software,Advance,"What is the output of print(id([1, 2]) == id([1, 2]))?",True,False,Depends on implementation,Error,b
-Software,Average,Which of the following creates a dictionary?,{},[],(),set(),a
-Software,Basic,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,a
-Software,Average,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),a
-Software,Average,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],c
-Software,Average,What is the output of print('Hello'[1:3])?,el,ell,He,llo,a
-Software,Basic,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),a
-Software,Advance,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,a
-Software,Advance,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,b
-Software,Average,Which of the following creates a dictionary?,{},[],(),set(),a
-Software,Average,Which of the following creates a dictionary?,{},[],(),set(),a
-Software,Average,"What is the output of print(list(range(1, 10)))?",List of numbers,Range object,Error,None,a
-Software,Basic,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,a
-Software,Basic,"In Python, what does the following code output: print(7 + 6)?",2,14,10,Error,a
-Software,Advance,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,b
-Software,Average,"What is the output of print(list(range(2, 10)))?",List of numbers,Range object,Error,None,a
-Software,Advance,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,b
-Software,Basic,"In Python, what does the following code output: print(2 + 1)?",16,18,2,Error,a
-Software,Basic,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),a
-Software,Basic,What is the output of len('Hello')?,4,5,6,Error,b
-Software,Average,"What is the output of print(list(range(1, 10)))?",List of numbers,Range object,Error,None,a
-Software,Average,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,a
-Software,Average,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,a
-Software,Basic,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,d
-Software,Basic,What is the output of print(3 == 3)?,True,False,3,Error,a
-Software,Basic,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),a
+ID,Question,Option A,Option B,Option C,Option D,Correct Option,Timer,explanation
+1,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+2,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
+3,"In Python, what does the following code output: print(1 + 9)?",15,1,18,Error,A,45,No explaination given
+4,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
+5,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
+6,"In Python, what does the following code output: print(3 + 10)?",2,5,4,Error,A,45,No explaination given
+7,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
+8,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
+9,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
+10,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+11,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
+12,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
+13,What is the output of print([] or 'default')?,[],'default',True,False,B,45,No explaination given
+14,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
+15,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
+16,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
+17,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,B,45,No explaination given
+18,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
+19,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
+20,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
+21,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+22,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
+23,"What is the output of print(list(range(4, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+24,"What is the output of print(list(range(3, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+25,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
+26,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
+27,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+28,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
+29,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
+30,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
+31,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
+32,"In Python, what does the following code output: print(4 + 10)?",13,8,9,Error,A,45,No explaination given
+33,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
+34,"In Python, what does the following code output: print(2 + 4)?",16,9,1,Error,A,45,No explaination given
+35,"What is the output of print(list(range(4, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+36,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+37,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
+38,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
+39,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
+40,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
+41,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
+42,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,B,45,No explaination given
+43,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
+44,"What is the output of print(list(range(4, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+45,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
+46,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
+47,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
+48,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
+49,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
+50,"In Python, what does the following code output: print(1 + 10)?",13,12,1,Error,A,45,No explaination given
+51,"What is the output of print(list(range(4, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+52,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
+53,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+54,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
+55,"In Python, what does the following code output: print(1 + 2)?",14,7,2,Error,A,45,No explaination given
+56,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,B,45,No explaination given
+57,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,B,45,No explaination given
+58,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,D,45,No explaination given
+59,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
+60,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+61,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
+62,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
+63,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,A,45,No explaination given
+64,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
+65,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
+66,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,D,45,No explaination given
+67,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
+68,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
+69,"In Python, what does the following code output: print(8 + 7)?",4,17,16,Error,A,45,No explaination given
+70,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
+71,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
+72,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,C,45,No explaination given
+73,"In Python, what does the following code output: print(8 + 7)?",18,6,9,Error,A,45,No explaination given
+74,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
+75,"In Python, what does the following code output: print(1 + 6)?",6,1,13,Error,A,45,No explaination given
+76,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+77,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,A,45,No explaination given
+78,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
+79,"What is the output of print(list(range(1, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+80,"What is the output of print(list(range(3, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+81,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
+82,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
+83,"In Python, what does the following code output: print(5 + 3)?",20,1,8,Error,A,45,No explaination given
+84,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
+85,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
+86,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
+87,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
+88,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,A,45,No explaination given
+89,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
+90,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
+91,"In Python, what does the following code output: print(5 + 6)?",10,6,5,Error,A,45,No explaination given
+92,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
+93,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
+94,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,B,45,No explaination given
+95,"In Python, what does the following code output: print(1 + 1)?",5,4,18,Error,A,45,No explaination given
+96,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
+97,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
+98,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
+99,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
+100,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+101,"In Python, what does the following code output: print(8 + 8)?",7,2,19,Error,A,45,No explaination given
+102,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
+103,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+104,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+105,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+106,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
+107,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
+108,"In Python, what does the following code output: print(8 + 3)?",16,18,17,Error,A,45,No explaination given
+109,"In Python, what does the following code output: print(4 + 1)?",12,13,11,Error,A,45,No explaination given
+110,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
+111,"In Python, what does the following code output: print(5 + 4)?",9,13,13,Error,A,45,No explaination given
+112,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
+113,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
+114,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
+115,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,A,45,No explaination given
+116,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,D,45,No explaination given
+117,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
+118,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
+119,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+120,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
+121,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
+122,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
+123,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+124,"In Python, what does the following code output: print(6 + 8)?",9,13,8,Error,A,45,No explaination given
+125,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
+126,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+127,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
+128,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
+129,What is the output of print([] or 'default')?,[],'default',True,False,B,45,No explaination given
+130,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
+131,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,A,45,No explaination given
+132,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
+133,"What is the output of print(id([1, 2]) == id([1, 2]))?",True,False,Depends on implementation,Error,B,45,No explaination given
+134,"In Python, what does the following code output: print(4 + 7)?",6,4,14,Error,A,45,No explaination given
+135,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+136,"In Python, what does the following code output: print(9 + 5)?",3,6,14,Error,A,45,No explaination given
+137,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
+138,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
+139,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
+140,"In Python, what does the following code output: print(9 + 4)?",17,15,5,Error,A,45,No explaination given
+141,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+142,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
+143,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
+144,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
+145,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+146,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+147,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,A,45,No explaination given
+148,"In Python, what does the following code output: print(4 + 9)?",10,1,10,Error,A,45,No explaination given
+149,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
+150,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,A,45,No explaination given
+151,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,A,45,No explaination given
+152,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
+153,"In Python, what does the following code output: print(1 + 3)?",8,1,17,Error,A,45,No explaination given
+154,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
+155,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
+156,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
+157,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,B,45,No explaination given
+158,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
+159,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
+160,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
+161,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,C,45,No explaination given
+162,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
+163,What is the output of print([] or 'default')?,[],'default',True,False,B,45,No explaination given
+164,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
+165,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
+166,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+167,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
+168,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
+169,"In Python, what does the following code output: print(7 + 9)?",8,5,8,Error,A,45,No explaination given
+170,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
+171,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+172,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
+173,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+174,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
+175,"In Python, what does the following code output: print(1 + 1)?",18,5,5,Error,A,45,No explaination given
+176,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+177,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
+178,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
+179,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
+180,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+181,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
+182,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
+183,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
+184,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
+185,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+186,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,B,45,No explaination given
+187,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,B,45,No explaination given
+188,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
+189,"In Python, what does the following code output: print(8 + 8)?",5,11,6,Error,A,45,No explaination given
+190,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
+191,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,D,45,No explaination given
+192,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
+193,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
+194,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
+195,"In Python, what does the following code output: print(8 + 7)?",2,17,9,Error,A,45,No explaination given
+196,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,D,45,No explaination given
+197,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
+198,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
+199,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,B,45,No explaination given
+200,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,B,45,No explaination given
+201,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
+202,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
+203,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+204,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
+205,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+206,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
+207,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+208,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
+209,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+210,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+211,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
+212,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,A,45,No explaination given
+213,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+214,"What is the output of print(list(range(5, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+215,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
+216,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
+217,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
+218,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
+219,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
+220,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
+221,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+222,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
+223,"In Python, what does the following code output: print(8 + 8)?",4,12,13,Error,A,45,No explaination given
+224,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
+225,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+226,"In Python, what does the following code output: print(1 + 3)?",5,14,2,Error,A,45,No explaination given
+227,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
+228,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
+229,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
+230,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+231,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
+232,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,A,45,No explaination given
+233,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
+234,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+235,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+236,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
+237,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,B,45,No explaination given
+238,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
+239,"In Python, what does the following code output: print(9 + 3)?",1,6,14,Error,A,45,No explaination given
+240,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
+241,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
+242,"In Python, what does the following code output: print(8 + 8)?",9,4,8,Error,A,45,No explaination given
+243,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+244,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+245,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+246,"What is the output of print(list(range(4, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+247,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
+248,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
+249,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,A,45,No explaination given
+250,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
+251,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
+252,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,A,45,No explaination given
+253,"In Python, what does the following code output: print(9 + 9)?",6,15,16,Error,A,45,No explaination given
+254,"In Python, what does the following code output: print(10 + 5)?",1,18,6,Error,A,45,No explaination given
+255,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
+256,"What is the output of print(list(range(3, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+257,"In Python, what does the following code output: print(2 + 2)?",5,8,6,Error,A,45,No explaination given
+258,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,A,45,No explaination given
+259,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
+260,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+261,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
+262,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,A,45,No explaination given
+263,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
+264,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
+265,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
+266,"In Python, what does the following code output: print(6 + 1)?",18,15,10,Error,A,45,No explaination given
+267,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
+268,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
+269,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
+270,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+271,"In Python, what does the following code output: print(8 + 10)?",3,15,2,Error,A,45,No explaination given
+272,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+273,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
+274,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
+275,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+276,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+277,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
+278,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
+279,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
+280,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
+281,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
+282,"What is the output of print(list(range(3, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+283,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
+284,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
+285,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
+286,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
+287,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,A,45,No explaination given
+288,"In Python, what does the following code output: print(5 + 9)?",20,4,19,Error,A,45,No explaination given
+289,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,D,45,No explaination given
+290,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,A,45,No explaination given
+291,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
+292,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+293,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
+294,"In Python, what does the following code output: print(10 + 2)?",17,1,8,Error,A,45,No explaination given
+295,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
+296,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+297,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
+298,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
+299,"In Python, what does the following code output: print(2 + 7)?",14,18,7,Error,A,45,No explaination given
+300,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
+301,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
+302,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
+303,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,B,45,No explaination given
+304,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+305,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
+306,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
+307,"In Python, what does the following code output: print(8 + 1)?",2,18,2,Error,A,45,No explaination given
+308,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
+309,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,D,45,No explaination given
+310,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+311,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+312,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
+313,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
+314,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
+315,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
+316,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
+317,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
+318,"In Python, what does the following code output: print(2 + 8)?",8,12,12,Error,A,45,No explaination given
+319,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+320,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,C,45,No explaination given
+321,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
+322,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,A,45,No explaination given
+323,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
+324,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
+325,"What is the output of print(id([1, 2]) == id([1, 2]))?",True,False,Depends on implementation,Error,B,45,No explaination given
+326,"In Python, what does the following code output: print(4 + 6)?",12,17,5,Error,A,45,No explaination given
+327,"In Python, what does the following code output: print(7 + 6)?",11,2,9,Error,A,45,No explaination given
+328,"In Python, what does the following code output: print(10 + 5)?",18,14,7,Error,A,45,No explaination given
+329,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
+330,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+331,"In Python, what does the following code output: print(9 + 6)?",10,14,10,Error,A,45,No explaination given
+332,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
+333,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,B,45,No explaination given
+334,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
+335,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+336,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
+337,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
+338,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,A,45,No explaination given
+339,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
+340,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+341,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,A,45,No explaination given
+342,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
+343,"In Python, what does the following code output: print(3 + 9)?",13,11,7,Error,A,45,No explaination given
+344,"In Python, what does the following code output: print(7 + 10)?",14,12,14,Error,A,45,No explaination given
+345,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
+346,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
+347,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
+348,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,B,45,No explaination given
+349,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
+350,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
+351,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
+352,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
+353,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
+354,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
+355,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+356,"In Python, what does the following code output: print(9 + 3)?",9,11,11,Error,A,45,No explaination given
+357,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
+358,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
+359,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
+360,"In Python, what does the following code output: print(1 + 8)?",18,3,20,Error,A,45,No explaination given
+361,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
+362,"What is the output of print(list(range(5, 8)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+363,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
+364,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
+365,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
+366,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
+367,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+368,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+369,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
+370,"In Python, what does the following code output: print(9 + 6)?",16,18,15,Error,A,45,No explaination given
+371,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
+372,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,A,45,No explaination given
+373,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
+374,"In Python, what does the following code output: print(4 + 4)?",17,6,10,Error,A,45,No explaination given
+375,"In Python, what does the following code output: print(8 + 6)?",19,12,17,Error,A,45,No explaination given
+376,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
+377,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
+378,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
+379,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,C,45,No explaination given
+380,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
+381,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
+382,"In Python, what does the following code output: print(9 + 2)?",9,17,12,Error,A,45,No explaination given
+383,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
+384,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
+385,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
+386,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
+387,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+388,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,B,45,No explaination given
+389,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
+390,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
+391,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,B,45,No explaination given
+392,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+393,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,A,45,No explaination given
+394,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
+395,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,D,45,No explaination given
+396,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,A,45,No explaination given
+397,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+398,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
+399,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+400,"In Python, what does the following code output: print(6 + 7)?",2,12,1,Error,A,45,No explaination given
+401,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+402,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
+403,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
+404,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+405,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
+406,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,A,45,No explaination given
+407,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,B,45,No explaination given
+408,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
+409,"What is the output of print(list(range(2, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+410,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
+411,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
+412,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
+413,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
+414,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
+415,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,B,45,No explaination given
+416,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
+417,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
+418,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+419,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
+420,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
+421,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,D,45,No explaination given
+422,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+423,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,D,45,No explaination given
+424,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
+425,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
+426,What is the output of print([] or 'default')?,[],'default',True,False,B,45,No explaination given
+427,"In Python, what does the following code output: print(2 + 5)?",17,6,16,Error,A,45,No explaination given
+428,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
+429,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
+430,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,B,45,No explaination given
+431,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
+432,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,A,45,No explaination given
+433,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,B,45,No explaination given
+434,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,B,45,No explaination given
+435,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
+436,"In Python, what does the following code output: print(1 + 2)?",4,11,11,Error,A,45,No explaination given
+437,"In Python, what does the following code output: print(5 + 7)?",4,16,10,Error,A,45,No explaination given
+438,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+439,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
+440,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
+441,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
+442,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
+443,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
+444,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
+445,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
+446,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
+447,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
+448,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
+449,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
+450,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
+451,"What is the output of print(list(range(2, 6)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+452,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
+453,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
+454,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
+455,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
+456,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
+457,"In Python, what does the following code output: print(8 + 9)?",11,5,1,Error,A,45,No explaination given
+458,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
+459,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,D,45,No explaination given
+460,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
+461,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,B,45,No explaination given
+462,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
+463,"What is the output of print(list(range(3, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+464,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,D,45,No explaination given
+465,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
+466,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
+467,"In Python, what does the following code output: print(10 + 6)?",2,9,5,Error,A,45,No explaination given
+468,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+469,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
+470,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,B,45,No explaination given
+471,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
+472,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+473,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
+474,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+475,"What is the output of print(id([1, 2]) == id([1, 2]))?",True,False,Depends on implementation,Error,B,45,No explaination given
+476,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
+477,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
+478,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
+479,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
+480,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
+481,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
+482,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
+483,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,B,45,No explaination given
+484,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
+485,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
+486,"What is the output of print(list(range(1, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+487,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
+488,"In Python, what does the following code output: print(7 + 6)?",2,14,10,Error,A,45,No explaination given
+489,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,B,45,No explaination given
+490,"What is the output of print(list(range(2, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+491,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,B,45,No explaination given
+492,"In Python, what does the following code output: print(2 + 1)?",16,18,2,Error,A,45,No explaination given
+493,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
+494,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
+495,"What is the output of print(list(range(1, 10)))?",List of numbers,Range object,Error,nan,A,45,No explaination given
+496,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
+497,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
+498,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
+499,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
+500,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
