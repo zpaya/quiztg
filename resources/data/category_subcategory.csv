@@ -1,0 +1,5 @@
+Category,Sub-Category,Quiz File Path
+Programming,Python,quiztg\resources\data\quizzes\001_programming\01_python.csv
+Programming,Java,quiztg\resources\data\quizzes\001_programming\02_java.csv
+CurrentAffairs,Banking And Finance,quiztg\resources\data\quizzes\002_current_affairs\01_banking_and_finance.csv
+Medical,Medical,quiztg\resources\data\quizzes\004_medical\01_medical.csv
