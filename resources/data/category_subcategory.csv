@@ -1,0 +1,8 @@
+Category,Sub_Category,Quiz_File_Path
+Programming,Python,..\..\resources\data\quizzes\001_programming\01_python.csv
+Programming,Java,..\..\resources\data\quizzes\001_programming\02_java.csv
+Basic Science,Biology,..\..\resources\data\quizzes\003_basic_science\01_biology.csv
+Basic Science,Biology,..\..\resources\data\quizzes\003_basic_science\02_chemistry.csv
+Basic Science,Biology,..\..\resources\data\quizzes\003_basic_science\03_physics.csv
+Current Affairs,Banking And Finance,..\..\resources\data\quizzes\002_current_affairs\01_banking_and_finance.csv
+Medical,Medical,..\..\resources\data\quizzes\004_medical\01_medical.csv
