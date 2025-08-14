@@ -1,8 +1,8 @@
-Category,Sub_Category,Quiz_File_Path
-Programming,Python,..\..\resources\data\quizzes\001_programming\01_python.csv
-Programming,Java,..\..\resources\data\quizzes\001_programming\02_java.csv
-Basic Science,Biology,..\..\resources\data\quizzes\003_basic_science\01_biology.csv
-Basic Science,Biology,..\..\resources\data\quizzes\003_basic_science\02_chemistry.csv
-Basic Science,Biology,..\..\resources\data\quizzes\003_basic_science\03_physics.csv
-Current Affairs,Banking And Finance,..\..\resources\data\quizzes\002_current_affairs\01_banking_and_finance.csv
-Medical,Medical,..\..\resources\data\quizzes\004_medical\01_medical.csv
+Category,Sub_Category,Quiz_File_Path,question_limit
+Programming,Python,quizzes\001_programming\01_python.csv,10
+Programming,Java,quizzes\001_programming\02_java.csv,10
+Basic Science,Biology,quizzes\003_basic_science\01_biology.csv,10
+Basic Science,Chemistry,quizzes\003_basic_science\02_chemistry.csv,15
+Basic Science,Physics,quizzes\003_basic_science\03_physics.csv,20
+Current Affairs,Banking And Finance,quizzes\002_current_affairs\01_banking_and_finance.csv,15
+Medical,Medical,quizzes\004_medical\01_medical.csv,10
