@@ -1,5 +1,5 @@
 import pandas as pd
-
+import os
 class QuizNavigator:
     '''
     loading the category, subcategory and the quiz file path based on the user choice
@@ -77,18 +77,26 @@ class QuizNavigator:
     def category_subcategory_file_path(self):
         '''
         display category, subcategory and lock them
-        return -> file_path
+        return -> file_path, question limit
         '''
         category = self.load_category()
         sub_category = self.load_subcategory(category)
         file_path = self.load_subcategory_filepath(sub_category)
-        return file_path
-    
-    def get_question_limit(self, file_path):
-
-        '''
-        fetch the question limit based on the question path
-        return -> question_limit
-        '''
         question_limit = self.data.loc[self.data['Quiz_File_Path'] == file_path, 'question_limit']
-        return question_limit.iloc[0]
+        return file_path, question_limit.iloc[0]
+    @staticmethod
+    def get_quiz_file_path(file_path=None):
+        """
+        Returns the absolute path to the quiz file.
+        If file_path is None, returns the default quiz file path.
+        """
+        script_directory = os.path.dirname(os.path.abspath(__file__))
+        parent_directory = os.path.abspath(os.path.join(script_directory, '..', '..'))
+
+        if file_path:
+            if not os.path.isabs(file_path):
+                return os.path.abspath(os.path.join(parent_directory, file_path))
+            return os.path.abspath(file_path)
+        else:
+            return 'No file path is provided'
+
