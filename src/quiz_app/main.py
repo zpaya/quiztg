@@ -18,6 +18,5 @@ def main_executer():
     quiz.load_quiz_data()
     
     
-    
 if __name__ == '__main__':
     main_executer()

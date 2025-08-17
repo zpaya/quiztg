@@ -1,3 +1,4 @@
+# this Module lock category & Subcategory files 
 import pandas as pd
 import os
 class QuizNavigator:
