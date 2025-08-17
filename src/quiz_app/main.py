@@ -1,5 +1,5 @@
 from quiz_app.category_utils import QuizNavigator 
-from quiz_app.question_utils import Quiz
+from quiz_app.question_loader_utils import QuizLoader
 
 def main_executer():
     '''
@@ -11,9 +11,12 @@ def main_executer():
     quiz_nav = QuizNavigator(csv_path)
     quiz_path, limit = quiz_nav.category_subcategory_file_path()
     noramlize_path = quiz_nav.get_quiz_file_path(quiz_path)
+    # print(noramlize_path)
 
     # Quiz Class
-    quiz = Quiz(noramlize_path, limit)
+    quiz = QuizLoader(noramlize_path, limit)
+    quiz.load_quiz_data()
+    
     
     
 if __name__ == '__main__':
