@@ -1,5 +1,5 @@
 Category,Sub_Category,Quiz_File_Path,question_limit
-Programming,Python,resources\data\quizzes\001_programming\01_python.csv,10
+Programming,Python,resources\data\quizzes\001_programming\01_python.csv,5
 Programming,Java,resources\data\quizzes\001_programming\02_java.csv,10
 Basic Science,Biology,resources\data\quizzes\003_basic_science\01_biology.csv,10
 Basic Science,Chemistry,resources\data\quizzes\003_basic_science\02_chemistry.csv,15
