@@ -1,25 +1,25 @@
-ID,Question,Option A,Option B,Option C,Option D,Correct Option,Timer,explaination
-1,What is the shape of DNA?,Single helix,Double helix,Triple helix,Straight chain,B,45,No explaination given
-2,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,B,45,No explaination given
-3,Which plant hormone promotes growth?,Abscisic acid,Ethylene,Auxin,Cytokinin,C,45,No explaination given
-4,Which animal has the largest brain relative to body size?,Elephant,Dolphin,Human,Blue whale,C,45,No explaination given
-5,What is the term for an organism's role in its ecosystem?,Habitat,Niche,Biome,Community,B,45,No explaination given
-6,How many chromosomes do humans normally have?,23,46,64,92,B,45,No explaination given
-7,What is the male reproductive part of a flower called?,Pistil,Stamen,Sepal,Petal,B,45,No explaination given
-8,What is the largest organ in the human body?,Liver,Brain,Skin,Lung,C,45,No explaination given
-9,Which scientist proposed the theory of natural selection?,Gregor Mendel,Charles Darwin,Louis Pasteur,Carl Linnaeus,B,45,No explaination given
-10,What is the main energy currency of cells?,DNA,RNA,ATP,ADP,C,45,No explaination given
-11,What is used to kill bacteria?,Antibiotic,Antiviral,Antifungal,Antiparasitic,A,45,No explaination given
-12,Which plant is known as the 'king of vegetables'?,Potato,Tomato,Brinjal,Onion,C,45,No explaination given
-13,What is the outermost layer of a tree trunk called?,Xylem,Phloem,Cambium,Bark,D,45,No explaination given
-14,Which gas do plants absorb during photosynthesis?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,C,45,No explaination given
-15,What is the study of fossils called?,Geology,Paleontology,Archaeology,Anthropology,B,45,No explaination given
-16,What gas do plants release during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen,A,45,No explaination given
-17,What process do plants use to make their own food?,Respiration,Photosynthesis,Transpiration,Germination,B,45,No explaination given
-18,Which microorganism causes COVID-19?,Bacteria,Virus,Fungus,Protozoa,B,45,No explaination given
-19,Which organ pumps blood throughout the body?,Liver,Heart,Lung,Kidney,B,45,No explaination given
-20,Which organelle contains digestive enzymes?,Golgi apparatus,Lysosome,Vacuole,Chloroplast,B,45,No explaination given
-21,Enzymes are primarily made of:,Carbohydrates,Lipids,Proteins,Nucleic acids,C,45,No explaination given
-22,What is the pH of human blood (approx)?,4.5,6.2,7.4,8,C,45,No explaination given
-23,Who is considered the father of genetics?,Charles Darwin,Gregor Mendel,James Watson,Francis Crick,B,45,No explaination given
-24,Which blood type is the universal donor?,A,B,AB,O,D,45,No explaination given
+ID,Question,optiona,optionb,optionc,optiond,correctoption,Timer,explanation
+1,What is the shape of DNA?,Single helix,Double helix,Triple helix,Straight chain,B,45,
+2,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Endoplasmic reticulum,B,45,
+3,Which plant hormone promotes growth?,Abscisic acid,Ethylene,Auxin,Cytokinin,C,45,
+4,Which animal has the largest brain relative to body size?,Elephant,Dolphin,Human,Blue whale,C,45,
+5,What is the term for an organism's role in its ecosystem?,Habitat,Niche,Biome,Community,B,45,
+6,How many chromosomes do humans normally have?,23,46,64,92,B,45,
+7,What is the male reproductive part of a flower called?,Pistil,Stamen,Sepal,Petal,B,45,
+8,What is the largest organ in the human body?,Liver,Brain,Skin,Lung,C,45,
+9,Which scientist proposed the theory of natural selection?,Gregor Mendel,Charles Darwin,Louis Pasteur,Carl Linnaeus,B,45,
+10,What is the main energy currency of cells?,DNA,RNA,ATP,ADP,C,45,
+11,What is used to kill bacteria?,Antibiotic,Antiviral,Antifungal,Antiparasitic,A,45,
+12,Which plant is known as the 'king of vegetables'?,Potato,Tomato,Brinjal,Onion,C,45,
+13,What is the outermost layer of a tree trunk called?,Xylem,Phloem,Cambium,Bark,D,45,
+14,Which gas do plants absorb during photosynthesis?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,C,45,
+15,What is the study of fossils called?,Geology,Paleontology,Archaeology,Anthropology,B,45,
+16,What gas do plants release during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen,A,45,
+17,What process do plants use to make their own food?,Respiration,Photosynthesis,Transpiration,Germination,B,45,
+18,Which microorganism causes COVID-19?,Bacteria,Virus,Fungus,Protozoa,B,45,
+19,Which organ pumps blood throughout the body?,Liver,Heart,Lung,Kidney,B,45,
+20,Which organelle contains digestive enzymes?,Golgi apparatus,Lysosome,Vacuole,Chloroplast,B,45,
+21,Enzymes are primarily made of:,Carbohydrates,Lipids,Proteins,Nucleic acids,C,45,
+22,What is the pH of human blood (approx)?,4.5,6.2,7.4,8,C,45,
+23,Who is considered the father of genetics?,Charles Darwin,Gregor Mendel,James Watson,Francis Crick,B,45,
+24,Which blood type is the universal donor?,A,B,AB,O,D,45,

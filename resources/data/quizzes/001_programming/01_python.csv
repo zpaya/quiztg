@@ -1,131 +1,131 @@
-ID,Question,Option A,Option B,Option C,Option D,Correct Option,Timer,explaination
-1,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,,A,45,No explaination given
-2,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45,No explaination given
-3,"In Python, what does the following code output: print(1 + 9)?",15,1,18,Error,A,45,No explaination given
-4,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45,No explaination given
-5,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45,No explaination given
-6,"In Python, what does the following code output: print(3 + 10)?",2,5,4,Error,A,45,No explaination given
-7,What is the output of print(bool([]))?,True,False,[],Error,B,45,No explaination given
-8,Which of the following is NOT a Python data type?,int,float,char,str,C,45,No explaination given
-9,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45,No explaination given
-10,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,,A,45,No explaination given
-11,What is the output of print(3 == 3)?,True,False,3,Error,A,45,No explaination given
-12,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45,No explaination given
-13,What is the output of print([] or 'default')?,[],'default',True,False,B,45,No explaination given
-14,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45,No explaination given
-15,Which of the following is used to define a function in Python?,def,function,define,func,A,45,No explaination given
-16,"What is the output of print(all([True, True, False]))?",True,False,"[True, True, False]",Error,B,45,No explaination given
-17,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45,No explaination given
-18,Which keyword is used to create a class in Python?,class,Class,define,def,A,45,No explaination given
-19,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45,No explaination given
-20,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45,No explaination given
-21,"What is the output of print(list(range(4, 6)))?",List of numbers,Range object,Error,,A,45,No explaination given
-22,"What is the output of print(list(range(3, 10)))?",List of numbers,Range object,Error,,A,45,No explaination given
-23,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45,No explaination given
-24,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,,A,45,No explaination given
-25,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45,No explaination given
-26,Which of the following is used for list comprehension?,[],{},(),||,A,45,No explaination given
-27,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45,No explaination given
-28,"In Python, what does the following code output: print(4 + 10)?",13,8,9,Error,A,45,No explaination given
-29,"In Python, what does the following code output: print(2 + 4)?",16,9,1,Error,A,45,No explaination given
-30,"What is the output of print(list(range(4, 8)))?",List of numbers,Range object,Error,,A,45,No explaination given
-31,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45,No explaination given
-32,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45,No explaination given
-33,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45,No explaination given
-34,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,B,45,No explaination given
-35,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45,No explaination given
-36,"What is the output of print(list(range(4, 10)))?",List of numbers,Range object,Error,,A,45,No explaination given
-37,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45,No explaination given
-38,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45,No explaination given
-39,What is the output of print(not True)?,True,False,not True,Error,B,45,No explaination given
-40,"In Python, what does the following code output: print(1 + 10)?",13,12,1,Error,A,45,No explaination given
-41,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45,No explaination given
-42,"In Python, what does the following code output: print(1 + 2)?",14,7,2,Error,A,45,No explaination given
-43,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,B,45,No explaination given
-44,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,D,45,No explaination given
-45,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,,A,45,No explaination given
-46,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,A,45,No explaination given
-47,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,D,45,No explaination given
-48,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45,No explaination given
-49,"In Python, what does the following code output: print(8 + 7)?",4,17,16,Error,A,45,No explaination given
-50,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45,No explaination given
-51,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,C,45,No explaination given
-52,"In Python, what does the following code output: print(1 + 6)?",6,1,13,Error,A,45,No explaination given
-53,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,,A,45,No explaination given
-54,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,A,45,No explaination given
-55,"What is the output of print(list(range(1, 7)))?",List of numbers,Range object,Error,,A,45,No explaination given
-56,"What is the output of print(list(range(3, 8)))?",List of numbers,Range object,Error,,A,45,No explaination given
-57,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45,No explaination given
-58,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45,No explaination given
-59,"In Python, what does the following code output: print(5 + 3)?",20,1,8,Error,A,45,No explaination given
-60,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45,No explaination given
-61,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,A,45,No explaination given
-62,"In Python, what does the following code output: print(5 + 6)?",10,6,5,Error,A,45,No explaination given
-63,"In Python, what does the following code output: print(1 + 1)?",5,4,18,Error,A,45,No explaination given
-64,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45,No explaination given
-65,"In Python, what does the following code output: print(8 + 8)?",7,2,19,Error,A,45,No explaination given
-66,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,,A,45,No explaination given
-67,"In Python, what does the following code output: print(8 + 3)?",16,18,17,Error,A,45,No explaination given
-68,"In Python, what does the following code output: print(4 + 1)?",12,13,11,Error,A,45,No explaination given
-69,"In Python, what does the following code output: print(5 + 4)?",9,13,13,Error,A,45,No explaination given
-70,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45,No explaination given
-71,What is the output of len('Hello')?,4,5,6,Error,B,45,No explaination given
-72,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,,A,45,No explaination given
-73,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45,No explaination given
-74,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,,A,45,No explaination given
-75,"In Python, what does the following code output: print(6 + 8)?",9,13,8,Error,A,45,No explaination given
-76,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45,No explaination given
-77,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45,No explaination given
-78,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,A,45,No explaination given
-79,Which of the following creates a dictionary?,{},[],(),set(),A,45,No explaination given
-80,"What is the output of print(id([1, 2]) == id([1, 2]))?",True,False,Depends on implementation,Error,B,45,No explaination given
-81,"In Python, what does the following code output: print(4 + 7)?",6,4,14,Error,A,45,No explaination given
-82,"In Python, what does the following code output: print(9 + 5)?",3,6,14,Error,A,45,No explaination given
-83,"In Python, what does the following code output: print(9 + 4)?",17,15,5,Error,A,45,No explaination given
-84,"In Python, what does the following code output: print(4 + 9)?",10,1,10,Error,A,45,No explaination given
-85,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,A,45,No explaination given
-86,"What is the output of print(any([False, False, True]))?",True,False,"[False, False, True]",Error,A,45,No explaination given
-87,"In Python, what does the following code output: print(1 + 3)?",8,1,17,Error,A,45,No explaination given
-88,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,B,45,No explaination given
-89,"In Python, what does the following code output: print(7 + 9)?",8,5,8,Error,A,45,No explaination given
-90,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,,A,45,No explaination given
-91,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,D,45,No explaination given
-92,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,B,45,No explaination given
-93,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,B,45,No explaination given
-94,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45,No explaination given
-95,"What is the output of print(list(range(5, 8)))?",List of numbers,Range object,Error,,A,45,No explaination given
-96,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45,No explaination given
-97,"In Python, what does the following code output: print(9 + 3)?",1,6,14,Error,A,45,No explaination given
-98,"What is the output of print(list(range(4, 7)))?",List of numbers,Range object,Error,,A,45,No explaination given
-99,"In Python, what does the following code output: print(9 + 9)?",6,15,16,Error,A,45,No explaination given
-100,"In Python, what does the following code output: print(10 + 5)?",1,18,6,Error,A,45,No explaination given
-101,"What is the output of print(list(range(3, 7)))?",List of numbers,Range object,Error,,A,45,No explaination given
-102,"In Python, what does the following code output: print(2 + 2)?",5,8,6,Error,A,45,No explaination given
-103,"In Python, what does the following code output: print(6 + 1)?",18,15,10,Error,A,45,No explaination given
-104,"In Python, what does the following code output: print(8 + 10)?",3,15,2,Error,A,45,No explaination given
-105,"In Python, what does the following code output: print(5 + 9)?",20,4,19,Error,A,45,No explaination given
-106,"In Python, what does the following code output: print(10 + 2)?",17,1,8,Error,A,45,No explaination given
-107,"In Python, what does the following code output: print(2 + 7)?",14,18,7,Error,A,45,No explaination given
-108,"In Python, what does the following code output: print(8 + 1)?",2,18,2,Error,A,45,No explaination given
-109,"In Python, what does the following code output: print(2 + 8)?",8,12,12,Error,A,45,No explaination given
-110,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,A,45,No explaination given
-111,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45,No explaination given
-112,"In Python, what does the following code output: print(4 + 6)?",12,17,5,Error,A,45,No explaination given
-113,"In Python, what does the following code output: print(7 + 6)?",11,2,9,Error,A,45,No explaination given
-114,"In Python, what does the following code output: print(9 + 6)?",10,14,10,Error,A,45,No explaination given
-115,"In Python, what does the following code output: print(3 + 9)?",13,11,7,Error,A,45,No explaination given
-116,"In Python, what does the following code output: print(7 + 10)?",14,12,14,Error,A,45,No explaination given
-117,"In Python, what does the following code output: print(1 + 8)?",18,3,20,Error,A,45,No explaination given
-118,"In Python, what does the following code output: print(4 + 4)?",17,6,10,Error,A,45,No explaination given
-119,"In Python, what does the following code output: print(8 + 6)?",19,12,17,Error,A,45,No explaination given
-120,"In Python, what does the following code output: print(9 + 2)?",9,17,12,Error,A,45,No explaination given
-121,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,B,45,No explaination given
-122,"In Python, what does the following code output: print(6 + 7)?",2,12,1,Error,A,45,No explaination given
-123,"What is the output of print(list(range(2, 6)))?",List of numbers,Range object,Error,,A,45,No explaination given
-124,"In Python, what does the following code output: print(2 + 5)?",17,6,16,Error,A,45,No explaination given
-125,"In Python, what does the following code output: print(5 + 7)?",4,16,10,Error,A,45,No explaination given
-126,"In Python, what does the following code output: print(8 + 9)?",11,5,1,Error,A,45,No explaination given
-127,"In Python, what does the following code output: print(10 + 6)?",2,9,5,Error,A,45,No explaination given
-128,"What is the output of print(list(range(1, 10)))?",List of numbers,Range object,Error,,A,45,No explaination given
-129,"What is the output of print(list(range(2, 10)))?",List of numbers,Range object,Error,,A,45,No explaination given
-130,"In Python, what does the following code output: print(2 + 1)?",16,18,2,Error,A,45,No explaination given
+ID,Question,optiona,optionb,optionc,optiond,correctoption,Timer,explanation
+1,"What is the output of print(list(range(3, 9)))?",List of numbers,Range object,Error,,A,45, 
+2,What is the difference between '==' and 'is' operators?,No difference,"== compares values, is compares identity","== compares identity, is compares values",Both are deprecated,B,45, 
+3,"In Python, what does the following code output: print(1 + 9)?",15,1,18,Error,A,45, 
+4,Which of the following is used to handle exceptions in Python?,try-catch,try-except,catch-except,handle-error,B,45, 
+5,Which of the following is a mutable data type in Python?,tuple,string,list,integer,C,45, 
+6,"In Python, what does the following code output: print(3 + 10)?",2,5,4,Error,A,45, 
+7,What is the output of print(bool([]))?,TRUE,FALSE,[],Error,B,45, 
+8,Which of the following is NOT a Python data type?,int,float,char,str,C,45, 
+9,Which method is used to join elements of a list into a string?,join(),connect(),merge(),combine(),A,45, 
+10,"What is the output of print(list(range(2, 8)))?",List of numbers,Range object,Error,,A,45, 
+11,What is the output of print(3 == 3)?,TRUE,FALSE,3,Error,A,45, 
+12,What is a lambda function in Python?,A named function,An anonymous function,A recursive function,A built-in function,B,45, 
+13,What is the output of print([] or 'default')?,[],'default',TRUE,FALSE,B,45, 
+14,What is the output of print(2 + 3)?,5,23,2+3,Error,A,45, 
+15,Which of the following is used to define a function in Python?,def,function,define,func,A,45, 
+16,"What is the output of print(all([True, True, False]))?",TRUE,FALSE,"[True, True, False]",Error,B,45, 
+17,Which method is used to add an element to the end of a list?,add(),append(),insert(),extend(),B,45, 
+18,Which keyword is used to create a class in Python?,class,Class,define,def,A,45, 
+19,What is the difference between @property and @classmethod decorators?,"@property for instance attributes, @classmethod for class methods",No difference,"@classmethod for instance attributes, @property for class methods",Both are deprecated,A,45, 
+20,What is the correct way to create a variable in Python?,x = 5,var x = 5,int x = 5,declare x = 5,A,45, 
+21,"What is the output of print(list(range(4, 6)))?",List of numbers,Range object,Error,,A,45, 
+22,"What is the output of print(list(range(3, 10)))?",List of numbers,Range object,Error,,A,45, 
+23,What is the output of print(2 ** 3 ** 2)?,64,512,18,Error,B,45, 
+24,"What is the output of print(list(range(1, 9)))?",List of numbers,Range object,Error,,A,45, 
+25,What is the purpose of the 'break' statement?,To exit a loop,To skip an iteration,To pause execution,To restart a loop,A,45, 
+26,Which of the following is used for list comprehension?,[],{},(),||,A,45, 
+27,What is the correct file extension for Python files?,.py,.python,.pt,.pyt,A,45, 
+28,"In Python, what does the following code output: print(4 + 10)?",13,8,9,Error,A,45, 
+29,"In Python, what does the following code output: print(2 + 4)?",16,9,1,Error,A,45, 
+30,"What is the output of print(list(range(4, 8)))?",List of numbers,Range object,Error,,A,45, 
+31,Which symbol is used for comments in Python?,//,#,/*,<!--,B,45, 
+32,What is the correct syntax for a while loop?,while (condition):,while condition:,while: condition,loop while condition:,B,45, 
+33,Which method is used to remove whitespace from both ends of a string?,strip(),trim(),clean(),remove(),A,45, 
+34,What is the difference between __str__ and __repr__?,No difference,"__str__ for users, __repr__ for developers","__repr__ for users, __str__ for developers",Both are deprecated,B,45, 
+35,Which method converts a string to lowercase?,lower(),lowercase(),toLower(),downcase(),A,45, 
+36,"What is the output of print(list(range(4, 10)))?",List of numbers,Range object,Error,,A,45, 
+37,What is the correct way to create a string in Python?,'Hello',"""Hello""",'''Hello''',All of the above,D,45, 
+38,"What is the output of print([1, 2, 3] + [4, 5, 6])?","[1, 2, 3, 4, 5, 6]","[5, 7, 9]",Error,"[1, 2, 3] + [4, 5, 6]",A,45, 
+39,What is the output of print(not True)?,TRUE,FALSE,not True,Error,B,45, 
+40,"In Python, what does the following code output: print(1 + 10)?",13,12,1,Error,A,45, 
+41,Which operator is used for exponentiation in Python?,^,**,exp,pow,B,45, 
+42,"In Python, what does the following code output: print(1 + 2)?",14,7,2,Error,A,45, 
+43,What is the purpose of the '__init__' method?,Class initialization,Object initialization,Module initialization,Function initialization,B,45, 
+44,Which of the following is true about Python's GIL?,Global Interpreter Lock,Prevents true parallelism,Affects CPU-bound tasks,All of the above,D,45, 
+45,"What is the output of print(list(range(5, 7)))?",List of numbers,Range object,Error,,A,45, 
+46,Which context manager protocol methods are required?,__enter__ and __exit__,__start__ and __stop__,__begin__ and __end__,__open__ and __close__,A,45, 
+47,Which of the following is a descriptor in Python?,property,staticmethod,classmethod,All of the above,D,45, 
+48,"What data type is the object below? L = [1, 23, 'hello', 1]",list,dictionary,tuple,array,A,45, 
+49,"In Python, what does the following code output: print(8 + 7)?",4,17,16,Error,A,45, 
+50,What is the output of print('ABC'.lower())?,ABC,abc,Abc,Error,B,45, 
+51,Which method is used to customize object string representation?,__str__,__repr__,Both a and b,__string__,C,45, 
+52,"In Python, what does the following code output: print(1 + 6)?",6,1,13,Error,A,45, 
+53,"What is the output of print(list(range(5, 10)))?",List of numbers,Range object,Error,,A,45, 
+54,Which of the following creates a closure?,Nested function with free variables,Lambda function,Generator function,Decorator function,A,45, 
+55,"What is the output of print(list(range(1, 7)))?",List of numbers,Range object,Error,,A,45, 
+56,"What is the output of print(list(range(3, 8)))?",List of numbers,Range object,Error,,A,45, 
+57,What is the purpose of the 'pass' statement?,To skip a loop iteration,To exit a function,To do nothing,To pass arguments,C,45, 
+58,What is the correct way to import a module in Python?,import module_name,include module_name,require module_name,use module_name,A,45, 
+59,"In Python, what does the following code output: print(5 + 3)?",20,1,8,Error,A,45, 
+60,Which method is used to check if a key exists in a dictionary?,has_key(),in keyword,exists(),contains(),B,45, 
+61,What is the purpose of the 'super()' function?,Access parent class methods,Create superclass,Define inheritance,Override methods,A,45, 
+62,"In Python, what does the following code output: print(5 + 6)?",10,6,5,Error,A,45, 
+63,"In Python, what does the following code output: print(1 + 1)?",5,4,18,Error,A,45, 
+64,What is the output of print(type(5))?,<class 'int'>,<class 'number'>,<class 'integer'>,int,A,45, 
+65,"In Python, what does the following code output: print(8 + 8)?",7,2,19,Error,A,45, 
+66,"What is the output of print(list(range(3, 6)))?",List of numbers,Range object,Error,,A,45, 
+67,"In Python, what does the following code output: print(8 + 3)?",16,18,17,Error,A,45, 
+68,"In Python, what does the following code output: print(4 + 1)?",12,13,11,Error,A,45, 
+69,"In Python, what does the following code output: print(5 + 4)?",9,13,13,Error,A,45, 
+70,What is the output of print(10 // 3)?,3.33,3,4,Error,B,45, 
+71,What is the output of len('Hello')?,4,5,6,Error,B,45, 
+72,"What is the output of print(list(range(4, 9)))?",List of numbers,Range object,Error,,A,45, 
+73,Which method is used to sort a list in Python?,sort(),sorted(),order(),Both a and b,D,45, 
+74,"What is the output of print(list(range(5, 6)))?",List of numbers,Range object,Error,,A,45, 
+75,"In Python, what does the following code output: print(6 + 8)?",9,13,8,Error,A,45, 
+76,What is the output of print('Hello'[1:3])?,el,ell,He,llo,A,45, 
+77,Which function is used to get user input in Python 3?,input(),raw_input(),get_input(),scan(),A,45, 
+78,What is the output of print(type(lambda: None))?,<class 'function'>,<class 'lambda'>,<class 'anonymous'>,<class 'callable'>,A,45, 
+79,Which of the following creates a dictionary?,{},[],(),set(),A,45, 
+80,"What is the output of print(id([1, 2]) == id([1, 2]))?",TRUE,FALSE,Depends on implementation,Error,B,45, 
+81,"In Python, what does the following code output: print(4 + 7)?",6,4,14,Error,A,45, 
+82,"In Python, what does the following code output: print(9 + 5)?",3,6,14,Error,A,45, 
+83,"In Python, what does the following code output: print(9 + 4)?",17,15,5,Error,A,45, 
+84,"In Python, what does the following code output: print(4 + 9)?",10,1,10,Error,A,45, 
+85,What is monkey patching in Python?,Dynamic modification of classes,Bug fixing,Performance optimization,Code obfuscation,A,45, 
+86,"What is the output of print(any([False, False, True]))?",TRUE,FALSE,"[False, False, True]",Error,A,45, 
+87,"In Python, what does the following code output: print(1 + 3)?",8,1,17,Error,A,45, 
+88,Which decorator is used to create a static method?,@static,@staticmethod,@classmethod,@property,B,45, 
+89,"In Python, what does the following code output: print(7 + 9)?",8,5,8,Error,A,45, 
+90,"What is the output of print(list(range(5, 9)))?",List of numbers,Range object,Error,,A,45, 
+91,Which of the following is true about metaclasses?,Classes that create classes,Instances of type,Control class creation,All of the above,D,45, 
+92,Which magic method is called for the 'len()' function?,__length__,__len__,__size__,__count__,B,45, 
+93,What is the difference between shallow copy and deep copy?,No difference,"Shallow copies references, deep copies objects","Deep copies references, shallow copies objects",Both are same,B,45, 
+94,Which function is used to iterate over both index and value?,enumerate(),iterate(),index(),range(),A,45, 
+95,"What is the output of print(list(range(5, 8)))?",List of numbers,Range object,Error,,A,45, 
+96,What is the output of print(list(range(3)))?,"[1, 2, 3]","[0, 1, 2]","[0, 1, 2, 3]",Error,B,45, 
+97,"In Python, what does the following code output: print(9 + 3)?",1,6,14,Error,A,45, 
+98,"What is the output of print(list(range(4, 7)))?",List of numbers,Range object,Error,,A,45, 
+99,"In Python, what does the following code output: print(9 + 9)?",6,15,16,Error,A,45, 
+100,"In Python, what does the following code output: print(10 + 5)?",1,18,6,Error,A,45, 
+101,"What is the output of print(list(range(3, 7)))?",List of numbers,Range object,Error,,A,45, 
+102,"In Python, what does the following code output: print(2 + 2)?",5,8,6,Error,A,45, 
+103,"In Python, what does the following code output: print(6 + 1)?",18,15,10,Error,A,45, 
+104,"In Python, what does the following code output: print(8 + 10)?",3,15,2,Error,A,45, 
+105,"In Python, what does the following code output: print(5 + 9)?",20,4,19,Error,A,45, 
+106,"In Python, what does the following code output: print(10 + 2)?",17,1,8,Error,A,45, 
+107,"In Python, what does the following code output: print(2 + 7)?",14,18,7,Error,A,45, 
+108,"In Python, what does the following code output: print(8 + 1)?",2,18,2,Error,A,45, 
+109,"In Python, what does the following code output: print(2 + 8)?",8,12,12,Error,A,45, 
+110,Which method is called when an object is created?,__new__,__init__,__create__,__construct__,A,45, 
+111,Which of the following is used to create a set?,set(),"{1, 2, 3}",Both a and b,[],C,45, 
+112,"In Python, what does the following code output: print(4 + 6)?",12,17,5,Error,A,45, 
+113,"In Python, what does the following code output: print(7 + 6)?",11,2,9,Error,A,45, 
+114,"In Python, what does the following code output: print(9 + 6)?",10,14,10,Error,A,45, 
+115,"In Python, what does the following code output: print(3 + 9)?",13,11,7,Error,A,45, 
+116,"In Python, what does the following code output: print(7 + 10)?",14,12,14,Error,A,45, 
+117,"In Python, what does the following code output: print(1 + 8)?",18,3,20,Error,A,45, 
+118,"In Python, what does the following code output: print(4 + 4)?",17,6,10,Error,A,45, 
+119,"In Python, what does the following code output: print(8 + 6)?",19,12,17,Error,A,45, 
+120,"In Python, what does the following code output: print(9 + 2)?",9,17,12,Error,A,45, 
+121,What is the purpose of the 'yield' keyword?,To return a value,To create a generator,To pause execution,To yield control,B,45, 
+122,"In Python, what does the following code output: print(6 + 7)?",2,12,1,Error,A,45, 
+123,"What is the output of print(list(range(2, 6)))?",List of numbers,Range object,Error,,A,45, 
+124,"In Python, what does the following code output: print(2 + 5)?",17,6,16,Error,A,45, 
+125,"In Python, what does the following code output: print(5 + 7)?",4,16,10,Error,A,45, 
+126,"In Python, what does the following code output: print(8 + 9)?",11,5,1,Error,A,45, 
+127,"In Python, what does the following code output: print(10 + 6)?",2,9,5,Error,A,45, 
+128,"What is the output of print(list(range(1, 10)))?",List of numbers,Range object,Error,,A,45, 
+129,"What is the output of print(list(range(2, 10)))?",List of numbers,Range object,Error,,A,45, 
+130,"In Python, what does the following code output: print(2 + 1)?",16,18,2,Error,A,45, 
