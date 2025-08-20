@@ -1,7 +1,5 @@
 # this files load the quiz data for conducting the question
 
-import random as rd
-import pandas as pd
 from quiz_app.utility_function.csv_validator import QuizFileValidator
 from quiz_app.quiz_utils import Quiz
 
@@ -29,15 +27,15 @@ class QuizLoader(QuizFileValidator):
             # loading all the quiz data after selections
             question = selected_random_question['Question'].str.strip().to_list()
             options = (
-            selected_random_question[['Option A', 'Option B', 'Option C', 'Option D']]
+            selected_random_question[['optiona', 'optionb', 'optionc', 'optiond']]
             .apply(lambda row: [str(x).strip() for x in row], axis=1)
             .tolist()
             )
-            answer = selected_random_question['Correct Option'].astype(str).str.strip().to_list()
+            answer = selected_random_question['correctoption'].astype(str).str.strip().to_list()
             _timer = selected_random_question['Timer'].astype(str).str.strip().to_list()
-            explaination = selected_random_question['explaination'].astype(str).str.strip().to_list()
+            explaination = selected_random_question['explanation'].astype(str).str.strip().to_list()
             print('Loaded Successfully')
-            # returning the quiz data
+            # feeding the quiz to the Quiz class
             quiz = Quiz(question=question, options=options, answer=answer, time=_timer, explaination=explaination)
             quiz.conduct_quiz()
             quiz.display_quiz_reults()

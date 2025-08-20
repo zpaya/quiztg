@@ -19,7 +19,7 @@ class QuizFileValidator:
         # initialize the defaul valid to true
         validate = False 
         # default row in the quiz 
-        default_quiz_rows = ['ID', 'Question', 'Option A', 'Option B', 'Option C', 'Option D', 'Correct Option', 'Timer', 'explaination']
+        default_quiz_rows = ['ID','Question','optiona','optionb','optionc','optiond','correctoption','Timer','explanation']
         # quiz file rows
         quiz_file_columns = []
 

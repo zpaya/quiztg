@@ -1,7 +1,6 @@
 # this file conducts the Quiz
 import pandas as pd
 import time 
-import threading
 from quiz_app.utility_function.answer_mapping import _normalize_answer
 from quiz_app.utility_function.score_percentage import percentage_calculator
 from inputimeout import inputimeout, TimeoutOccurred
@@ -15,7 +14,7 @@ class Quiz:
         self.options = options
         self.answer = answer
         self.time = time
-        self.explaination = explaination
+        self.explaination = explaination # excluded as per our talk
         self.score = 0 # initializing the score to 0
 
     def conduct_quiz(self):
@@ -41,15 +40,13 @@ class Quiz:
                 else:
                     print('\nWrong Answer\n')
                     print(f'Correct Answer is : {self.answer[idx]}') # printing the correct answer
-                    print(f'Explaination : {self.explaination[idx]}') # displaying the explaination
                     time.sleep(2)
                  
             except TimeoutOccurred:
                 print('Time Out')
                 print(f'Correct Answer is : {self.answer[idx]}') # printing the correct answer
-                print(f'Explaination : {self.explaination[idx]}') # displaying the explaination
                 user_ans = None
-                time.sleep(2) # pausing for 5 second for reading the explaination
+                time.sleep(2) # pausing for 2 second for reading the explaination
     
     def display_quiz_reults(self):
         print('\n======== Quiz Completed ========')
